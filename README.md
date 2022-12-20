@@ -5,4 +5,4 @@
 :seedling: I'm starting to grow an interest on working with data  
 :handshake: Looking for a trainee position for Spring 2023  
   
-:email: You can reach me via email **amanda.karjalainen@hotmail.com**
+:email: You can reach me via [**email**](mailto:amanda.karjalainen@hotmail.com)
